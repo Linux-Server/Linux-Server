@@ -1,5 +1,7 @@
 <p align="center"><img src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/cover.gif?raw=true"/></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Sachin. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
+<br />
 <h1 align="center">Hi 👋, I'm Sachin Murali</h1>
 <h3 align="center">A passionate software developer under the sun</h3>
 <img align="right" alt="Coding" width="400" src="https://rustacean.net/assets/cuddlyferris.svg">
