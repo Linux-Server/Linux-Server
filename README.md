@@ -1,4 +1,4 @@
-<p align="center" width="30"><img src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/cover.gif?raw=true"/></p>
+<p align="center" width="10"><img src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/cover.gif?raw=true"/></p>
 
 <h1 align="center">Hi 👋, I'm Sachin Murali</h1>
 <h3 align="center">A passionate software developer under the sun</h3>
