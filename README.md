@@ -25,7 +25,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=linux-server&show_icons=true&langs_count=10&locale=en&layout=donut-vertical&theme=dark#gh-dark-mode-only" alt="linux-server" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Linux-Server&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Linux-Server&show_icons=true&theme=dark#gh-dark-mode-only)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=linux-server&show_icons=true&theme=radical" alt="linux-server" /></p>
 
