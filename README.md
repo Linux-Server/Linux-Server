@@ -29,7 +29,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=linux-server&show_icons=true&theme=radical" alt="linux-server" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=linux-server&show_icons=true&theme=radical" alt="linux-server" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=linux-server&show_icons=true&theme=dark#gh-dark-mode-only" alt="linux-server" /></a> </p>
 
 ###
 
