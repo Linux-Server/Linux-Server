@@ -31,8 +31,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=linux-server&show_icons=true&theme=radical" alt="linux-server" /></a> </p>
 
-
-
 ###
 
 <div align="left">
