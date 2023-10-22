@@ -12,7 +12,6 @@
 - 💬 Ask me about **Rust,Javascript,Nodejs,Solidity**
 
 - 📫 How to reach me **sachin6624@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sachinmura69378" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/sachinmura69378" height="30" width="40" /></a>
