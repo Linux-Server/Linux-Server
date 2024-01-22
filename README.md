@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on **polkdot-sdk**
 
 
-- 💬 Ask me about **Rust,Javascript,Nodejs,Solidity**
+- 💬 Ask me about **Rust,Javascript,Nodejs,Solidity,Python**
 
 - 📫 How to reach me **sachin6624@gmail.com**
 <h3 align="left">Connect with me:</h3>
