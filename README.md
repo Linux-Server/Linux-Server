@@ -6,12 +6,12 @@
 <img align="right" alt="Coding" width="400" src="https://rustacean.net/assets/cuddlyferris.svg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linux-server&label=Profile%20views&color=0e75b6&style=flat" alt="linux-server" /> </p>
 
-- 🌱 I’m currently learning **Rust,Solidity,Typescript,Polkadot,Solana**
+- 🌱 I’m currently learning **Rust(Blockchain),Go(Server,API),Python(AI/ML)**
 
 - 👯 I’m looking to collaborate on **polkdot-sdk**
 
 
-- 💬 Ask me about **Rust,Javascript,Nodejs,Solidity,Python**
+- 💬 Ask me about **Rust,Go,Python,Solidity,Javascript**
 
 - 📫 How to reach me **sachin6624@gmail.com**
 <h3 align="left">Connect with me:</h3>
