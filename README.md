@@ -6,9 +6,9 @@
 <img align="right" alt="Coding" width="400" src="https://rustacean.net/assets/cuddlyferris.svg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linux-server&label=Profile%20views&color=0e75b6&style=flat" alt="linux-server" /> </p>
 
-- 🌱 I’m currently learning **Rust(Blockchain),Go(Server,API),Python(AI/ML)**
+- 🌱 I’m currently learning Python(AI/ML)**
 
-- 👯 I’m looking to collaborate on **polkdot-sdk**
+- 👯 I’m looking to collaborate on **ML Projectsa**
 
 
 - 💬 Ask me about **Rust,Go,Python,Solidity,Javascript**
