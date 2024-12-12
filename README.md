@@ -7,6 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linux-server&label=Profile%20views&color=0e75b6&style=flat" alt="linux-server" /> </p>
 
 - 🌱 I’m currently learning Python(AI/ML)**
+-  Learning Under Progress - Langchain,LangGraph,Streamlit,Transformers,Kaggle,Huggingface,Ollama
 
 - 👯 I’m looking to collaborate on **ML Projectsa**
 
