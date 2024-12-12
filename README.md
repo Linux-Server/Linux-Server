@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Sachin Murali</h1>
 <h3 align="center">A passionate software developer under the sun</h3>
-<img align="right" alt="Coding" width="400" src="https://rustacean.net/assets/cuddlyferris.svg">
+<img align="right" alt="Coding" width="400" src="https://openart.ai/share/Z2s2Y1AzejA4bVFNcmJCZVlrNjY7aHR0cHM6Ly9jZG4ub3BlbmFydC5haS91cGxvYWRzL2ltYWdlX2RIZm53eHZzXzE3MzQwMzI2MDkwNzZfNTEyLndlYnA">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linux-server&label=Profile%20views&color=0e75b6&style=flat" alt="linux-server" /> </p>
 
 - 🌱 I’m currently learning Python(AI/ML)**
