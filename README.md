@@ -26,6 +26,7 @@ location:    Dubai, UAE 🇦🇪
 focus:       [LLMs, Multi-Agent Systems, Voice AI, Production ML]
 languages:   [Python, TypeScript, Rust, Go, Solidity]
 open_to:     collaborations on ML / agent / voice-AI projects
+huggingface: https://huggingface.co/sachin6624
 ```
 
 ## 🚀 What I work on
