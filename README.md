@@ -1,38 +1,87 @@
-<p align="center" width="10"><img src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/cover.gif?raw=true"/></p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sachin%20Murali&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20AI%20Engineer%20%C2%B7%20Dubai%2C%20UAE&descAlignY=58&descSize=18" />
 
-
-<h1 align="center">Hi 👋, I'm Sachin Murali</h1>
-<h3 align="center">A passionate software developer under the sun</h3>
-<img align="right" alt="Coding" width="400" src="https://openart.ai/share/Z2s2Y1AzejA4bVFNcmJCZVlrNjY7aHR0cHM6Ly9jZG4ub3BlbmFydC5haS91cGxvYWRzL2ltYWdlX2RIZm53eHZzXzE3MzQwMzI2MDkwNzZfNTEyLndlYnA">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=linux-server&label=Profile%20views&color=0e75b6&style=flat" alt="linux-server" /> </p>
-
-- 🌱 I’m currently learning Blockchain  + Python(AI/ML)**
--  Learning Under Progress - Langchain,LangGraph,Streamlit,Transformers,Kaggle,Huggingface,Ollama
-
-- 👯 I’m looking to collaborate on **ML Projects**
-
-
-- 💬 Ask me about **Rust,Go,Python,Solidity,Javascript**
-
-- 📫 How to reach me **sachin6624@gmail.com**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sachinmura69378" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/sachinmura69378" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sachin-murali-12a625165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sachin-murali-12a625165/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=LLMs+%E2%80%A2+Multi-Agent+Systems+%E2%80%A2+Voice+AI;Building+agents+that+talk%2C+think+and+ship;Fine-tuning+%E2%80%A2+RAG+%E2%80%A2+Self-hosted+inference" alt="Typing SVG" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> 
+<p align="center">
+  <a href="https://www.linkedin.com/in/sachin-murali-12a625165/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://huggingface.co/sachin6624"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
+  <a href="https://twitter.com/sachinmura69378"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:sachin6624@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=linux-server&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+</p>
 
-<p><img align="left" <img src="https://github-readme-stats.vercel.app/api/top-langs?username=linux-server&show_icons=true&langs_count=10&locale=en&layout=donut-vertical&theme=dark&hide=makefile,css,ejs,powershell#gh-dark-mode-only" /></p>
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Linux-Server&show_icons=true&theme=dark#gh-dark-mode-only)
+## 👋 About me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=linux-server&show_icons=true&theme=radical" alt="linux-server" /></p>
+I'm a **Senior AI Engineer** with 7+ years in software engineering — 4+ of them shipping LLM and ML systems to production.
+At **HireStella AI** I build agents for *Stella*, a multi-tenant AI-workforce platform for UAE businesses: live multilingual voice agents (English, Arabic, Hindi) that qualify leads and book meetings, plus the platform's LangGraph agent service.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=linux-server&show_icons=true&theme=dark#gh-dark-mode-only" alt="linux-server" /></a> </p>
+```yaml
+name:        Sachin Murali
+role:        Senior AI Engineer @ HireStella AI
+location:    Dubai, UAE 🇦🇪
+focus:       [LLMs, Multi-Agent Systems, Voice AI, Production ML]
+languages:   [Python, TypeScript, Rust, Go, Solidity]
+open_to:     collaborations on ML / agent / voice-AI projects
+```
 
-###
+## 🚀 What I work on
 
+- 🎙️ **Voice AI** — real-time voice agents on Pipecat & LiveKit, streaming STT/TTS, turn-taking, Twilio/SIP
+- 🤖 **Agents** — LangGraph (Python & JS), MCP, tool calling, multi-agent hand-offs
+- 🧠 **Model training** — SFT, LoRA, GRPO, RLHF, FP8 quantization
+- ⚡ **Inference** — self-hosted vLLM, SGLang, Triton; Gemma & Qwen in production
+- 📚 **RAG** — RAG & Graph RAG on Pinecone, Qdrant, Chroma, pgvector
+- 🧪 **Evaluation** — DeepEval, red-teaming, LLM-judged eval suites
+- 🏆 Won an **Innovation Award** for an AI customer-support chatbot
 
+## 🛠️ Tech stack
 
+**AI / ML**
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" />
+  <img src="https://img.shields.io/badge/vLLM-30A2FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/LiveKit-1F1F1F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pipecat-6E56CF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+</p>
+
+**Languages, backend & cloud**
+
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,ts,js,rust,go,solidity,fastapi,nodejs,nextjs,react,express,postgres,mongodb,mysql,redis,prisma,docker,kubernetes,azure,aws,gcp,firebase,nginx,linux,git&perline=13" /></a>
+</p>
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Linux-Server&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Linux-Server&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&hide=makefile,css,ejs,powershell" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Linux-Server&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Linux-Server&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Linux-Server&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" /></a>
+</p>
+
+---
+
+<p align="center"><i>💬 Ask me about LLMs, voice agents, Rust, Go, Python or Solidity — always happy to talk shop.</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" />
