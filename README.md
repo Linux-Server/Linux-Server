@@ -76,10 +76,6 @@ open_to:     collaborations on ML / agent / voice-AI projects
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Linux-Server&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Linux-Server&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" /></a>
-</p>
-
 ---
 
 <p align="center"><i>💬 Ask me about LLMs, voice agents, Rust, Go, Python or Solidity — always happy to talk shop.</i></p>
